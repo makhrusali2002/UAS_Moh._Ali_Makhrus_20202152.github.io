@@ -1,6 +1,5 @@
 # UAS Augmented Reality
-Nama : Aditya Wahyu Ramadhan
-
-NIM : 20202315
-
-Prodi : Sistem Komputer - E1
+Nama : Moh. Ali Makhrus
+NIM : 20202152
+Prodi : Sistem Komputer 
+Kelas : E1
